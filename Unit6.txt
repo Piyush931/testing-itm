@@ -1,0 +1,35 @@
+1. What is the full form of GIT?
+A. Gastro Intestional Track.
+B. Gastro International Track.
+C. Global information Tracker
+D. None of these
+ANSWER C
+
+2. Which of the language is used in GIT?
+A. C language
+B. HTML language
+C. C++ language
+D. None of these
+ANSWER A
+
+3. Which of the subsequent Git repository hosting tasks is true?
+A. Gitlab
+B. Github
+C. Bitbucket
+D. All of the above
+ANSWER D
+
+4. Which one of the below doesn't qualify as a git command?
+A. git clean
+B. git clone
+C. git commit
+D. Git roll
+ANSWER D
+
+5. What git command from the list below downloads your repository from GitHub to your computer?
+A. git fork
+B. git commit
+C. git clone
+D. git push
+ANSWER C
+

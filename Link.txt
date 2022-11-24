@@ -1,0 +1,20 @@
+
+https://git-scm.com/download/win
+Git - Downloading Package
+
+
+
+git remote add origin https://nandkapatel.github.io/MyPortfolio/ 
+
+git remote add origin https://github.com/diwakar-gautam/test_session.git
+
+
+Token value: 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
+
+GitHub - diwakar-gautam/test_sessionContribute to diwakar-gautam/test_session development by creating an account on GitHub.
+
+
+
+git remote set-url origin https://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@github.com/diwakar-gautam/test_repo.git
+
+git clone --single-branch --branch <branch name> <remote-repo-url>
